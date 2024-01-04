@@ -7,6 +7,7 @@ draft: false
 * [Introduction](/introduction)
 * [Getting Started](/getting-started)
 * [Items](/items)
+* [Tools](/tools)
 * [Armor](/armor)
 * [Weapons](/weapons)
 * [Accessories](/accessories)
